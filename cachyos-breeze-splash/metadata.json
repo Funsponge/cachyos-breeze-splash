@@ -1,0 +1,9 @@
+{
+    "KPlugin": {
+        "Id": "cachyos-breeze-splash",
+        "Name": "CachyOS",
+        "Description": "CachyOS splash screen based on Breeze",
+        "Version": "1.0",
+        "License": "GPL-2.0"
+    }
+}
